@@ -7,7 +7,7 @@
 * La Panacée - 12h00 - Expo - Projection quand ça a marché, ça ressemble à quoi ?
 * Oignon Givré - 13h00 - Miam - On continue à diverger
 * Le Gram - Part sur une hypothèse de topito des structures poluantes
-* La Panacée - Paul Merlin - Daily
+* La Panacée - Paul M. - Daily
 * L'Heure Bleue - Consolide l'hypothèse, on pourrait faire ceci, on pourrait faire cela
 
 Et si...  

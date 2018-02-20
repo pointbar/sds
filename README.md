@@ -13,10 +13,14 @@
 Et si...  
 * On posait un bilan public de structures polluantes ou énergivores avant d'aller les voir pour discuter solutions avec elles ? ex : mairie pour les éclairages de Noël, Royal Canin, hôpital, Veolia...
 * On allait discuter avec des personnes impliquées dans l'action pour la protection de l'environnement, pour clarifier le contexte ? ex : TerraCycle, D-SIDD (Arnaud M.), Ecosec, Déchets CG33 (Pascal), Yannick B (l'eau)
+* Index des entreprises selon leurs niveau de pollution - conso. énergie - autres
+* on contactait data-gouv
 
 Liens  
 > http://www.iso14001.fr - ( ... et dont les caractères sont propres à rassurer les consommateur ... )  
 > https://d-sidd.com  
+> http://herault.cci.fr/actualites/comment-sacquitter-de-la-taxe-generale-sur-les-activites-polluantes-tgap  
+> http://www.georisques.gouv.fr/dossiers/irep-registre-des-emissions-polluantes  
 
 
 ### Mardi 20 février

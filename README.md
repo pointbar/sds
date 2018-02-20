@@ -15,10 +15,10 @@ Et si...
 * On allait discuter avec des personnes impliquées dans l'action pour la protection de l'environnement, pour clarifier le contexte ? ex : TerraCycle, D-SIDD (Arnaud M.), Ecosec, Déchets CG33 (Pascal), Yannick B (l'eau)
 
 Liens  
-> http://www.iso14001.fr - (... et dont les caractères sont propres à rassurer les consommateur ...)
-> https://d-sidd.com
+> http://www.iso14001.fr - ( ... et dont les caractères sont propres à rassurer les consommateur ... )  
+> https://d-sidd.com  
 
 
 ### Mardi 20 février
-* Halles Soladid - 13h00 - Résumé et proposition de questions Sabine à Stéphane. Peu de chance que les structures nous ouvrent les portes => est-ce qu'on pourrait faire un petit truc intéressant avant pour être un tout petit peu légitime ?
+* Halles Solanid - 13h00 - Résumé et proposition de questions Sabine à Stéphane. Peu de chance que les structures nous ouvrent les portes => est-ce qu'on pourrait faire un petit truc intéressant avant pour être un tout petit peu légitime ?
 * Le Comptoir - 14h00 - Github 

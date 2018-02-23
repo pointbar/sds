@@ -1,6 +1,27 @@
 # ...---... - SDS
 
+## Liens
+
+Liens  
+> http://www.iso14001.fr - ( ... et dont les caractères sont propres à rassurer les consommateur ... )  
+> https://d-sidd.com  
+> http://herault.cci.fr/actualites/comment-sacquitter-de-la-taxe-generale-sur-les-activites-polluantes-tgap  
+> http://www.georisques.gouv.fr/dossiers/irep-registre-des-emissions-polluantes  
+> https://datactivist.coop
+> https://www.youtube.com/watch?v=VCcJFYRgqO0
+> http://ebc-auvergnerhonealpes.fr
+
+
 ## Historique
+
+### Vendredi 23 février
+* Call David, Sabine et Stéphane
+* Pourquoi ce projet ?
+* Prise de rdv avec Yannick B. - dimanche fin d'aprèm
+
+### Mardi 20 février
+* Halles Solanid - 13h00 - Résumé et proposition de questions Sabine à Stéphane. Peu de chance que les structures nous ouvrent les portes => est-ce qu'on pourrait faire un petit truc intéressant avant pour être un tout petit peu légitime ?
+* Le Comptoir - 14h00 - Github 
 
 ### Mercredi 14 février
 * Saint-Anne - 10h30 - Questions de Stéphane à Sabine : Pourquoi, ça t'intéresse ou pas ?
@@ -15,14 +36,3 @@ Et si...
 * On allait discuter avec des personnes impliquées dans l'action pour la protection de l'environnement, pour clarifier le contexte ? ex : TerraCycle, D-SIDD (Arnaud M.), Ecosec, Déchets CG33 (Pascal), Yannick B (l'eau)
 * Index des entreprises selon leurs niveau de pollution - conso. énergie - autres
 * on contactait data-gouv
-
-Liens  
-> http://www.iso14001.fr - ( ... et dont les caractères sont propres à rassurer les consommateur ... )  
-> https://d-sidd.com  
-> http://herault.cci.fr/actualites/comment-sacquitter-de-la-taxe-generale-sur-les-activites-polluantes-tgap  
-> http://www.georisques.gouv.fr/dossiers/irep-registre-des-emissions-polluantes  
-
-
-### Mardi 20 février
-* Halles Solanid - 13h00 - Résumé et proposition de questions Sabine à Stéphane. Peu de chance que les structures nous ouvrent les portes => est-ce qu'on pourrait faire un petit truc intéressant avant pour être un tout petit peu légitime ?
-* Le Comptoir - 14h00 - Github 

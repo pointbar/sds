@@ -11,14 +11,14 @@
 ## Liens
 
 Liens  
+> https://d-sidd.com - Un projet que Stéphane à accompagner. Ils effectuent des diagnostiques pour les institutions.
 > http://www.iso14001.fr - ( ... et dont les caractères sont propres à rassurer les consommateur ... )  
-> https://d-sidd.com  
 > http://herault.cci.fr/actualites/comment-sacquitter-de-la-taxe-generale-sur-les-activites-polluantes-tgap  
 > http://www.georisques.gouv.fr/dossiers/irep-registre-des-emissions-polluantes  
-> https://datactivist.coop
-> https://www.youtube.com/watch?v=VCcJFYRgqO0
-> http://ebc-auvergnerhonealpes.fr
-
+> https://datactivist.coop - Des datas pour comprendre
+> https://www.youtube.com/watch?v=VCcJFYRgqO0 - L'agriculture, fonctionnement
+> http://ebc-auvergnerhonealpes.fr - Asso de Yannick B.
+> http://salonprimevere.org - Salon Lyon
 
 ## Historique
 

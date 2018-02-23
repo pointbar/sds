@@ -1,5 +1,13 @@
 # ...---...
 
+## Vision
+
+à compéter
+
+## Liste des trucs à faire
+
+> [Potager](https://github.com/pointbar/sds/projects/1)
+
 ## Liens
 
 Liens  

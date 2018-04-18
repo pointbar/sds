@@ -6,14 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.343,
-                    39.984
+                    2.3488,
+                    48.8534
                 ]
             },
             "properties": {
-                "name": "Location A",
-                "category": "Store",
-                "street": "Market"
+                "name": "Paris",
+                "description": "Prix de l'eau",
+                "_storage_options": {
+                    "color": "DarkRed"
+                }
             }
         },
         {

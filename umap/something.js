@@ -3,7 +3,7 @@ const fs = require('fs')
 const GeoJSON = require('geojson')
 
 const data = [
-  { name: 'Location A', category: 'Store', street: 'Market', lat: 39.984, lng: -75.343 },
+  { name: 'Paris', description: 'Prix de l\'eau', _storage_options: {color: 'DarkRed'}, lat: 48.8534, lng: 2.3488 },
   { name: 'Location B', category: 'House', street: 'Broad', lat: 39.284, lng: -75.833 },
   { name: 'Location C', category: 'Office', street: 'South', lat: 39.123, lng: -74.534 }
 ]

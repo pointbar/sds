@@ -1,0 +1,15 @@
+{
+  "name": "umap",
+  "version": "1.0.0",
+  "description": "https://umap.openstreetmap.fr/fr/map/prix-de-l-eau_214128",
+  "main": "something.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/pointbar/sds/umap"
+  },
+  "author": "",
+  "license": "ISC"
+}

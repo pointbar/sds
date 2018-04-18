@@ -1,20 +1,31 @@
 const fs = require('fs')
-
 const GeoJSON = require('geojson')
-const umapMarker = {
-	"color": "LimeGreen",
-	"iconClass": "Drop",
-	"zoomTo": 20,
-	"showLabel": true,
-	"labelHover": true
-}
 
-const data = [
-  { name: 'Paris', description: 'Prix de l\'eau', _storage_options: umapMarker, lat: 48.8534, lng: 2.3488 },
-  { name: 'Location B', category: 'House', street: 'Broad', lat: 39.284, lng: -75.833 },
-  { name: 'Location C', category: 'Office', street: 'South', lat: 39.123, lng: -74.534 }
+const cities = [
+  { name: 'Paris', description: 'Prix de l\'eau', lat: 48.8534, lng: 2.3488 },
+  { name: 'Toulouse', description: 'Prix de l\'eau', lat: 43.6, lng: 1.433333 },
 ]
 
-const dataGeo = GeoJSON.parse(data, {Point: ['lat', 'lng']})
+const data = addMarkerToCities(cities)
 
-fs.writeFile('umap.geojson', JSON.stringify(dataGeo, null, 4)) 
+const dataGeoJson = GeoJSON.parse(data , {Point: ['lat', 'lng']})
+
+fs.writeFileSync('umap.geojson', JSON.stringify(dataGeoJson, null, 4)) 
+
+
+// FUNCTIONS
+
+function addMarkerToCities (cities) {
+	const umapMarker = {
+		"color": "LimeGreen",
+		"iconClass": "Drop",
+		"zoomTo": 20,
+		"showLabel": true,
+		"labelHover": true
+	}
+	
+	return cities.map(city => {
+		city._storage_options = umapMarker
+		return city
+	})
+}

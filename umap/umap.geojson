@@ -27,29 +27,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.833,
-                    39.284
+                    1.433333,
+                    43.6
                 ]
             },
             "properties": {
-                "name": "Location B",
-                "category": "House",
-                "street": "Broad"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.534,
-                    39.123
-                ]
-            },
-            "properties": {
-                "name": "Location C",
-                "category": "Office",
-                "street": "South"
+                "name": "Toulouse",
+                "description": "Prix de l'eau",
+                "_storage_options": {
+                    "color": "LimeGreen",
+                    "iconClass": "Drop",
+                    "zoomTo": 20,
+                    "showLabel": true,
+                    "labelHover": true
+                }
             }
         }
     ]

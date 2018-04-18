@@ -1,9 +1,16 @@
 const fs = require('fs')
 
 const GeoJSON = require('geojson')
+const umapMarker = {
+	"color": "LimeGreen",
+	"iconClass": "Drop",
+	"zoomTo": 20,
+	"showLabel": true,
+	"labelHover": true
+}
 
 const data = [
-  { name: 'Paris', description: 'Prix de l\'eau', _storage_options: {color: 'DarkRed'}, lat: 48.8534, lng: 2.3488 },
+  { name: 'Paris', description: 'Prix de l\'eau', _storage_options: umapMarker, lat: 48.8534, lng: 2.3488 },
   { name: 'Location B', category: 'House', street: 'Broad', lat: 39.284, lng: -75.833 },
   { name: 'Location C', category: 'Office', street: 'South', lat: 39.123, lng: -74.534 }
 ]

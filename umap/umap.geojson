@@ -12,13 +12,10 @@
             },
             "properties": {
                 "name": "Paris",
-                "description": "Prix de l'eau",
+                "description": ".79",
                 "_storage_options": {
-                    "color": "LimeGreen",
                     "iconClass": "Drop",
-                    "zoomTo": 20,
-                    "showLabel": true,
-                    "labelHover": true
+                    "color": "LimeGreen"
                 }
             }
         },
@@ -33,13 +30,10 @@
             },
             "properties": {
                 "name": "Toulouse",
-                "description": "Prix de l'eau",
+                "description": "6.30",
                 "_storage_options": {
-                    "color": "LimeGreen",
                     "iconClass": "Drop",
-                    "zoomTo": 20,
-                    "showLabel": true,
-                    "labelHover": true
+                    "color": "DarkRed"
                 }
             }
         }

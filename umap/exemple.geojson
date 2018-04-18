@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panam",
+        "_storage_options": {
+          "color": "LimeGreen",
+          "iconClass": "Drop",
+          "zoomTo": 20,
+          "showLabel": true,
+          "labelHover": true
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5488281250000004,
+          48.63290858589535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ToLoose",
+        "description": "Prix de l'eau",
+        "_storage_options": {
+          "color": "DarkRed",
+          "iconClass": "Drop",
+          "zoomTo": 20,
+          "showLabel": true,
+          "labelHover": true
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4282226562500002,
+          43.628123412124616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.118896484375002,
+          47.368594345213374
+        ]
+      }
+    }
+  ]
+}

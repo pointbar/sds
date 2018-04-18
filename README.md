@@ -26,6 +26,11 @@ Liens
 
 ## Historique
 
+### Mercredi 18 avril
+* Trouver un outil de représentation sur carte (umap)
+* Import/export de fichiers umap (format geojson)
+* Création d'une application pour générer geojson depuis json (importable dans umap)
+
 ### Vendredi 23 février
 * Call David, Sabine et Stéphane
 * Pourquoi ce projet ?

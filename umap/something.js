@@ -1,5 +1,12 @@
 const fs = require('fs')
 const GeoJSON = require('geojson')
+const Papa = require('papaparse')
+
+Papa.parse('./cities-water-prices.csv', {
+	complete: function(results) {
+		console.log("Finished:", results)
+	}
+})
 
 const cities = [
   { name: 'Paris', description: '.79', lat: 48.8534, lng: 2.3488 },

@@ -11,5 +11,9 @@
     "url": "github.com/pointbar/sds/umap"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "geojson": "^0.5.0",
+    "papaparse": "^4.3.7"
+  }
 }

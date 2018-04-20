@@ -6,13 +6,463 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.3488,
-                    48.8534
+                    2.3518,
+                    48.8566
                 ]
             },
             "properties": {
                 "name": "Paris",
-                "description": ".79",
+                "description": " 1.74",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3698,
+                    43.2963
+                ]
+            },
+            "properties": {
+                "name": "Marseille",
+                "description": " 1.94",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8422,
+                    45.7597
+                ]
+            },
+            "properties": {
+                "name": "Lyon",
+                "description": " 1.81",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4439,
+                    43.6045
+                ]
+            },
+            "properties": {
+                "name": "Toulouse",
+                "description": " 1.72",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2714,
+                    43.6959
+                ]
+            },
+            "properties": {
+                "name": "Nice",
+                "description": " 1.74",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5527,
+                    47.2181
+                ]
+            },
+            "properties": {
+                "name": "Nantes",
+                "description": " 1.81",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7523,
+                    48.5734
+                ]
+            },
+            "properties": {
+                "name": "Strasbourg",
+                "description": " 1.64",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8772,
+                    43.6119
+                ]
+            },
+            "properties": {
+                "name": "Montpellier",
+                "description": " 1.6",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5795,
+                    44.8379
+                ]
+            },
+            "properties": {
+                "name": "Bordeaux",
+                "description": " 2.04",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6794,
+                    48.1147
+                ]
+            },
+            "properties": {
+                "name": "Rennes",
+                "description": " 2.09",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1,
+                    49.49
+                ]
+            },
+            "properties": {
+                "name": "Le Havre",
+                "description": " 2.42",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0347,
+                    49.2628
+                ]
+            },
+            "properties": {
+                "name": "Reims",
+                "description": " 1.54",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0633,
+                    50.6372
+                ]
+            },
+            "properties": {
+                "name": "Lille",
+                "description": " 1.99",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3902,
+                    45.4347
+                ]
+            },
+            "properties": {
+                "name": "Saint-Étienne",
+                "description": " 1.76",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93,
+                    43.1222
+                ]
+            },
+            "properties": {
+                "name": "Toulon",
+                "description": " 2.42",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7269,
+                    45.1878
+                ]
+            },
+            "properties": {
+                "name": "Grenoble",
+                "description": " 1.6",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5541,
+                    47.4736
+                ]
+            },
+            "properties": {
+                "name": "Angers",
+                "description": " 1.77",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0413,
+                    47.3217
+                ]
+            },
+            "properties": {
+                "name": "Dijon",
+                "description": " 2.11",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4855,
+                    48.3908
+                ]
+            },
+            "properties": {
+                "name": "Brest",
+                "description": " 2.11",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1969,
+                    48.0042
+                ]
+            },
+            "properties": {
+                "name": "Le Mans",
+                "description": " 1.79",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0823,
+                    45.7831
+                ]
+            },
+            "properties": {
+                "name": "Clermont-Ferrand",
+                "description": " 1.8",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2957,
+                    49.8943
+                ]
+            },
+            "properties": {
+                "name": "Amiens",
+                "description": " 1.63",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.454,
+                    43.5311
+                ]
+            },
+            "properties": {
+                "name": "Aix-en-Provence",
+                "description": " 1.46",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.25,
+                    45.85
+                ]
+            },
+            "properties": {
+                "name": "Limoges",
+                "description": " 1.68",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3608,
+                    43.8378
+                ]
+            },
+            "properties": {
+                "name": "Nîmes",
+                "description": " 2.23",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6891,
+                    47.3936
+                ]
+            },
+            "properties": {
+                "name": "Tours",
+                "description": " ",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "LimeGreen"
@@ -24,13 +474,247 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.433333,
-                    43.6
+                    55.4481,
+                    -20.8789
                 ]
             },
             "properties": {
-                "name": "Toulouse",
-                "description": "6.30",
+                "name": "Saint-Denis",
+                "description": " 1.05",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8802,
+                    45.7667
+                ]
+            },
+            "properties": {
+                "name": "Villeurbanne",
+                "description": " 1.81",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1778,
+                    49.1203
+                ]
+            },
+            "properties": {
+                "name": "Metz",
+                "description": " 1.71",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0219,
+                    47.2431
+                ]
+            },
+            "properties": {
+                "name": "Besançon",
+                "description": " 1.62",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3705,
+                    49.1822
+                ]
+            },
+            "properties": {
+                "name": "Caen",
+                "description": " 1.99",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.909,
+                    47.9025
+                ]
+            },
+            "properties": {
+                "name": "Orléans",
+                "description": " 1.36",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3399,
+                    47.7495
+                ]
+            },
+            "properties": {
+                "name": "Mulhouse",
+                "description": " 2.07",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0999,
+                    49.4432
+                ]
+            },
+            "properties": {
+                "name": "Rouen",
+                "description": " 1.93",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2409,
+                    48.8352
+                ]
+            },
+            "properties": {
+                "name": "Boulogne-Billancourt",
+                "description": " 1.97",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8955,
+                    42.6986
+                ]
+            },
+            "properties": {
+                "name": "Perpignan",
+                "description": " 1.97",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1846,
+                    48.6936
+                ]
+            },
+            "properties": {
+                "name": "Nancy",
+                "description": " 2.38",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1816,
+                    50.69
+                ]
+            },
+            "properties": {
+                "name": "Roubaix",
+                "description": " 1.99",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0695,
+                    14.604
+                ]
+            },
+            "properties": {
+                "name": "Fort-de-France",
+                "description": " 2.74",
+                "_storage_options": {
+                    "iconClass": "Drop",
+                    "color": "DarkRed"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2475,
+                    48.9478
+                ]
+            },
+            "properties": {
+                "name": "Argenteuil",
+                "description": " 1.97",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkRed"

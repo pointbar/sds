@@ -1,3 +1,41 @@
-name,description,lat,lng
-Paris,.79,48.8534,2.3488
-Toulouse,6.30,43.6,1.433333
+name,description
+Paris, 1.74
+Marseille, 1.94
+Lyon, 1.81
+Toulouse, 1.72
+Nice, 1.74
+Nantes, 1.81
+Strasbourg, 1.64
+Montpellier, 1.6
+Bordeaux, 2.04
+Rennes, 2.09
+Le Havre, 2.42
+Reims, 1.54
+Lille, 1.99
+Saint-Étienne, 1.76
+Toulon, 2.42
+Grenoble, 1.6
+Angers, 1.77
+Dijon, 2.11
+Brest, 2.11
+Le Mans, 1.79
+Clermont-Ferrand, 1.8
+Amiens, 1.63
+Aix-en-Provence, 1.46
+Limoges, 1.68
+Nîmes, 2.23
+Tours, 
+Saint-Denis, 1.05
+Villeurbanne, 1.81
+Metz, 1.71
+Besançon, 1.62
+Caen, 1.99
+Orléans, 1.36
+Mulhouse, 2.07
+Rouen, 1.93
+Boulogne-Billancourt, 1.97
+Perpignan, 1.97
+Nancy, 2.38
+Roubaix, 1.99
+Fort-de-France, 2.74
+Argenteuil, 1.97

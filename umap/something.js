@@ -28,8 +28,19 @@ function addCoordsToCities (cities) {
 		})
 	})
 }
+
+function colorSteps (cities) {
+	const priceList = cities.map(city => +city.description)
+	const max = Math.max(...priceList)
+	const min = Math.min(...priceList)
+	const deviation = (max-min)/3
+
+	return {min: min + deviation, max: max - deviation}
+}
  
 function addMarkerToCities (cities) {
+	const {min, max} = colorSteps(cities)
+
 	return cities.map(city => {
 		const price = +city.description
 
@@ -37,9 +48,9 @@ function addMarkerToCities (cities) {
 			iconClass: 'Drop'
 		}
 
-		if (price <= 1.4725) {
+		if (price <= min) {
 			city._storage_options.color = 'LimeGreen'
-		} else if  (price >= 2.176667) {
+		} else if  (price >= max) {
 			city._storage_options.color = 'DarkRed'
 		} else {
 			city._storage_options.color = 'DarkOrange'

@@ -37,10 +37,12 @@ function addMarkerToCities (cities) {
 			iconClass: 'Drop'
 		}
 
-		if (price < 1) {
+		if (price <= 1.4725) {
 			city._storage_options.color = 'LimeGreen'
-		} else {
+		} else if  (price >= 2.176667) {
 			city._storage_options.color = 'DarkRed'
+		} else {
+			city._storage_options.color = 'DarkOrange'
 		}
 
 		return city

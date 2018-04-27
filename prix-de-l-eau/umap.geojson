@@ -15,7 +15,6 @@
                 "description": "1.74",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -34,7 +33,6 @@
                 "description": "1.94",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -53,7 +51,6 @@
                 "description": "1.81",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -72,7 +69,6 @@
                 "description": "1.72",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -91,7 +87,6 @@
                 "description": "1.74",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -167,7 +162,6 @@
                 "description": "2.04",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -224,7 +218,6 @@
                 "description": "1.54",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -243,7 +236,6 @@
                 "description": "1.99",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -281,7 +273,6 @@
                 "description": "2.42",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -338,7 +329,6 @@
                 "description": "2.11",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -357,7 +347,6 @@
                 "description": "2.11",
                 "gestion": "délégation SPL",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -471,7 +460,6 @@
                 "description": "2.23",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -509,7 +497,6 @@
                 "description": "1.05",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -528,7 +515,6 @@
                 "description": "1.81",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -547,7 +533,6 @@
                 "description": "1.71",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -585,7 +570,6 @@
                 "description": "1.99",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -604,7 +588,6 @@
                 "description": "1.36",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -642,7 +625,6 @@
                 "description": "1.93",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -680,7 +662,6 @@
                 "description": "1.97",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -718,7 +699,6 @@
                 "description": "1.99",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -737,7 +717,6 @@
                 "description": "2.74",
                 "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -756,7 +735,6 @@
                 "description": "1.97",
                 "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }

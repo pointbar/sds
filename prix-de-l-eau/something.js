@@ -46,11 +46,9 @@ function addMarkerToCities (cities) {
 		const management = city.gestion
 
 		city._storage_options = {}
-console.log('managment', management)
+
 		if (management === 'régie') {
 			city._storage_options.iconClass = 'Drop'
-		} else {
-			city._storage_options.iconClass = 'Ball'
 		}
 
 		if (price <= min) {

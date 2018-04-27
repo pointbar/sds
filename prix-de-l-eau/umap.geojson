@@ -12,9 +12,10 @@
             },
             "properties": {
                 "name": "Paris",
-                "description": " 1.74",
+                "description": "1.74",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -30,9 +31,10 @@
             },
             "properties": {
                 "name": "Marseille",
-                "description": " 1.94",
+                "description": "1.94",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -48,9 +50,10 @@
             },
             "properties": {
                 "name": "Lyon",
-                "description": " 1.81",
+                "description": "1.81",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -66,9 +69,10 @@
             },
             "properties": {
                 "name": "Toulouse",
-                "description": " 1.72",
+                "description": "1.72",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -84,9 +88,10 @@
             },
             "properties": {
                 "name": "Nice",
-                "description": " 1.74",
+                "description": "1.74",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -102,7 +107,8 @@
             },
             "properties": {
                 "name": "Nantes",
-                "description": " 1.81",
+                "description": "1.81",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -120,7 +126,8 @@
             },
             "properties": {
                 "name": "Strasbourg",
-                "description": " 1.64",
+                "description": "1.64",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -138,7 +145,8 @@
             },
             "properties": {
                 "name": "Montpellier",
-                "description": " 1.6",
+                "description": "1.6",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "LimeGreen"
@@ -156,9 +164,10 @@
             },
             "properties": {
                 "name": "Bordeaux",
-                "description": " 2.04",
+                "description": "2.04",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -174,7 +183,8 @@
             },
             "properties": {
                 "name": "Rennes",
-                "description": " 2.09",
+                "description": "2.09",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -192,7 +202,8 @@
             },
             "properties": {
                 "name": "Le Havre",
-                "description": " 2.42",
+                "description": "2.42",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkRed"
@@ -210,9 +221,10 @@
             },
             "properties": {
                 "name": "Reims",
-                "description": " 1.54",
+                "description": "1.54",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -228,9 +240,10 @@
             },
             "properties": {
                 "name": "Lille",
-                "description": " 1.99",
+                "description": "1.99",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -246,7 +259,8 @@
             },
             "properties": {
                 "name": "Saint-Étienne",
-                "description": " 1.76",
+                "description": "1.76",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -264,9 +278,10 @@
             },
             "properties": {
                 "name": "Toulon",
-                "description": " 2.42",
+                "description": "2.42",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -282,7 +297,8 @@
             },
             "properties": {
                 "name": "Grenoble",
-                "description": " 1.6",
+                "description": "1.6",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "LimeGreen"
@@ -300,7 +316,8 @@
             },
             "properties": {
                 "name": "Angers",
-                "description": " 1.77",
+                "description": "1.77",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -318,9 +335,10 @@
             },
             "properties": {
                 "name": "Dijon",
-                "description": " 2.11",
+                "description": "2.11",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -336,9 +354,10 @@
             },
             "properties": {
                 "name": "Brest",
-                "description": " 2.11",
+                "description": "2.11",
+                "gestion": "délégation SPL",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -354,7 +373,8 @@
             },
             "properties": {
                 "name": "Le Mans",
-                "description": " 1.79",
+                "description": "1.79",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -372,7 +392,8 @@
             },
             "properties": {
                 "name": "Clermont-Ferrand",
-                "description": " 1.8",
+                "description": "1.8",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -390,7 +411,8 @@
             },
             "properties": {
                 "name": "Amiens",
-                "description": " 1.63",
+                "description": "1.63",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -408,7 +430,8 @@
             },
             "properties": {
                 "name": "Aix-en-Provence",
-                "description": " 1.46",
+                "description": "1.46",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "LimeGreen"
@@ -426,7 +449,8 @@
             },
             "properties": {
                 "name": "Limoges",
-                "description": " 1.68",
+                "description": "1.68",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -444,9 +468,10 @@
             },
             "properties": {
                 "name": "Nîmes",
-                "description": " 2.23",
+                "description": "2.23",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -462,7 +487,8 @@
             },
             "properties": {
                 "name": "Tours",
-                "description": " 1.44",
+                "description": "1.44",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "LimeGreen"
@@ -480,9 +506,10 @@
             },
             "properties": {
                 "name": "Saint-Denis",
-                "description": " 1.05",
+                "description": "1.05",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -498,9 +525,10 @@
             },
             "properties": {
                 "name": "Villeurbanne",
-                "description": " 1.81",
+                "description": "1.81",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -516,9 +544,10 @@
             },
             "properties": {
                 "name": "Metz",
-                "description": " 1.71",
+                "description": "1.71",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -534,7 +563,8 @@
             },
             "properties": {
                 "name": "Besançon",
-                "description": " 1.62",
+                "description": "1.62",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -552,9 +582,10 @@
             },
             "properties": {
                 "name": "Caen",
-                "description": " 1.99",
+                "description": "1.99",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -570,9 +601,10 @@
             },
             "properties": {
                 "name": "Orléans",
-                "description": " 1.36",
+                "description": "1.36",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "LimeGreen"
                 }
             }
@@ -588,7 +620,8 @@
             },
             "properties": {
                 "name": "Mulhouse",
-                "description": " 2.07",
+                "description": "2.07",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -606,9 +639,10 @@
             },
             "properties": {
                 "name": "Rouen",
-                "description": " 1.93",
+                "description": "1.93",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -624,7 +658,8 @@
             },
             "properties": {
                 "name": "Boulogne-Billancourt",
-                "description": " 1.97",
+                "description": "1.97",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkOrange"
@@ -642,9 +677,10 @@
             },
             "properties": {
                 "name": "Perpignan",
-                "description": " 1.97",
+                "description": "1.97",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -660,7 +696,8 @@
             },
             "properties": {
                 "name": "Nancy",
-                "description": " 2.38",
+                "description": "2.38",
+                "gestion": "régie",
                 "_storage_options": {
                     "iconClass": "Drop",
                     "color": "DarkRed"
@@ -678,9 +715,10 @@
             },
             "properties": {
                 "name": "Roubaix",
-                "description": " 1.99",
+                "description": "1.99",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }
@@ -696,9 +734,10 @@
             },
             "properties": {
                 "name": "Fort-de-France",
-                "description": " 2.74",
+                "description": "2.74",
+                "gestion": "mixte",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkRed"
                 }
             }
@@ -714,9 +753,10 @@
             },
             "properties": {
                 "name": "Argenteuil",
-                "description": " 1.97",
+                "description": "1.97",
+                "gestion": "délégation",
                 "_storage_options": {
-                    "iconClass": "Drop",
+                    "iconClass": "Ball",
                     "color": "DarkOrange"
                 }
             }

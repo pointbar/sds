@@ -37,7 +37,7 @@ Et, maintenant vous pouvez en lançant :
 $ node something.js
 ```
 
-Le script parcourt le fichier *cities-water-prices.csv* et génère le fichier *umap.geojson*.
+Le script parcourt le fichier *cities-and-water.csv* et génère le fichier *umap.geojson*.
 
 Ce fichier est exploitable par *umap*, il représente les données géolocalisés et prends en charge la mise en forme des marqueurs.
 
